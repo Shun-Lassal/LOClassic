@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "http://192.168.174.150:8080/"; // blackbox
+axios.defaults.baseURL = "http://164.132.201.41/"; // blackbox
 
 axios.interceptors.request.use(
   async (config) => {
