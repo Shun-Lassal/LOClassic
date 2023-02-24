@@ -144,7 +144,6 @@ const coreStore = useCoreStore();
           <h2 class="text-white font-okami text-lg">
             To divert from the wasteland
           </h2>
-          <button>Know more..</button>
         </div>
       </div>
     </div>
