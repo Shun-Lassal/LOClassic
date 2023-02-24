@@ -132,7 +132,7 @@ const coreStore = useCoreStore();
         </div>
       </div>
       <div
-        class="h-100 justify-start relative bg-gradient-to-t from-black via-black to-transparent pointer-events-none overflow-hidden"
+        class="h-lg justify-start relative bg-gradient-to-t from-black via-black to-transparent pointer-events-none overflow-hidden"
       >
         <img
           src="../../assets/article3.png"
