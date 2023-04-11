@@ -1,3 +1,3 @@
 <script setup></script>
 
-<template>CACA</template>
+<template>There is no other page ! :'(</template>
